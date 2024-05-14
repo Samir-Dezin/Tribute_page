@@ -1,0 +1,63 @@
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  height: auto;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+}
+figcaption {
+  text-align: center;
+  margin: 10px;
+}
+#heading {
+  background-color: #eeeeee;
+  padding: 8px;
+  text-align: center;
+  margin-top: 20px;
+  color: #333333;
+  font-size: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#title {
+  font-weight: bolder;
+}
+#b {
+  margin-left: 33%;
+  margin-top: 0%;
+  padding-top: 0px;
+}
+#tribute-info {
+  background-color: #eeeeee;
+  color: #333333;
+}
+h3 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 18px;
+}
+ul {
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 15px;
+  padding: 20px;
+}
+li {
+  margin: 20px auto;
+}
+p {
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 15px;
+  padding: 20px;
+  width: 395px;
+}
+h4 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+a {
+  color: #477ca7;
+}
